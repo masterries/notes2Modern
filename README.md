@@ -11,7 +11,7 @@
 :white_check_mark: Such Funktion  
 :white_check_mark: Farben Auswahl  
 :white_check_mark: Sortieren  
-:white_check_mark: Mehre Sortier Mögelichkeiten  
+:white_check_mark: Mehre Sortier Möglichkeiten  
 
 # Animation
 
