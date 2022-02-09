@@ -16,6 +16,5 @@
 # Animation
 
 ![Text](https://i.imgur.com/aWEQK97.gif)
-# Weitere Bilder
 
 
